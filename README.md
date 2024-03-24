@@ -6,7 +6,7 @@
  
  <h1 align="center"> Criando um Relatório de Vendas elegante com Power BI </h1>
 
-Este é um desafio de projeto do **Coding The Future Squadio - Python Data Analytics.** 
+Este é um desafio de projeto do bootcamp **Coding The Future Squadio - Python Data Analytics.** 
 
 Nesse desafio, a proposta é criar um relatório elaborado com base em uma amostra utilizando o Power BI. 
 
